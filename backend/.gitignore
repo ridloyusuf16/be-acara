@@ -1,2 +1,6 @@
 node_modules
 .env
+
+.postman/
+postman/
+*.postman_collection.json
